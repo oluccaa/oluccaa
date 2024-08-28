@@ -1,6 +1,6 @@
 ### <h1>Olá! Eu sou o Nathan Lucca! 🖐🏼</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heylucca)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heyluccaa)
 
 <div style="display: inline_block">
     <a href="https://github.com/oluccaa">

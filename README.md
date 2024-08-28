@@ -6,8 +6,6 @@
     </a>
 </div>
 
-[![Instagram]()](
-
 <div style="display: inline_block">
     <a href="https://github.com/oluccaa" target="_blank">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oluccaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=false"/>

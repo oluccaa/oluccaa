@@ -24,4 +24,4 @@ Sou apaixonado por tecnologia, gosto de programação, e estou sempre estudando 
         
 ## Projetos que estou trabalhando atualmente
 
-[![oluccaa's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=oluccaa&repo=GastonApp&theme=tokyonight)](https://github.com/olucca/github-readme-stats)
+[![oluccaa's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=oluccaa&repo=GastonApp&theme=tokyonight)]([https://github.com/olucca/github-readme-stats](https://github.com/oluccaa/GastonApp))

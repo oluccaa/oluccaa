@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
     <a href="https://www.instagram.com/heyluccaa" target="_blank">
-    <img height="200em" width="480em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </div>
 

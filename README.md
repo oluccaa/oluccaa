@@ -4,8 +4,8 @@
 
 <div style="display: inline_block">
     <a href="https://github.com/oluccaa">
-    <img src="https://github-readme-stats.vercel.app/api?username=oluccaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=false"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluccaa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oluccaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=false"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluccaa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia

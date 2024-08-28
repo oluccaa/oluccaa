@@ -6,6 +6,7 @@
     <a href="https://github.com/oluccaa">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oluccaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=false"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluccaa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+    </a>
 </div>
 
 ## Tecnologias que eu uso no meu dia
@@ -20,8 +21,13 @@ Sou apaixonado por tecnologia, gosto de programação, e estou sempre estudando 
 <div style="display: inline_block">
     <a href="https://github.com/oluccaa">
     <img height="200em" width="480em" src="https://github-readme-streak-stats.herokuapp.com/?user=oluccaa&theme=tokyonight&hide_border=false"/>
+    </a>
 </div>
         
 ## Projetos que estou trabalhando atualmente
 
-[![oluccaa's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=oluccaa&repo=GastonApp&theme=tokyonight)]([https://github.com/olucca/github-readme-stats](https://github.com/oluccaa/GastonApp))
+<div style="display: inline_block">
+    <a href="https://github.com/oluccaa/GastonApp">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=oluccaa&repo=GastonApp&theme=tokyonight"/>
+    </a>
+</div>
